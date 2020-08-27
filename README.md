@@ -9,3 +9,4 @@
 * JWT should be used to secure the APIs.
 * Only admin can make admin, but the buyer can register with the endpoint.
 * Make the postman collection for all the endpoints.
+* Push all the code and postman collection to Git.
